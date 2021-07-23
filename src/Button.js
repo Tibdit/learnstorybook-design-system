@@ -33,7 +33,7 @@ const SIZES = {
 };
 
 const StyledButton = styled.button`
-border: 10px solid red;
+border: 10px solid hotpink;
 font-size: 20px;
 
   border: 0;
